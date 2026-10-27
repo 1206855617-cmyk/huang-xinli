@@ -1,10 +1,10 @@
 # huang-xinli
-```bash
-cd ledger/android
-git init
-git add .
+cd "C:/Users/86178/WorkBuddy/2026-10-27-09-33-40/ledger/android"
+
+git config --global user.name "1206855617-cmyk"
+git config --global user.email "1206855617@qq.com"
+
 git commit -m "init"
 git branch -M main
-git remote add origin https://github.com/<你的用户名>/<仓库名>.git
-git push -u origin main
-```
+git remote add origin https://github.com/1206855617-cmyk/huang-xinli.git.git
+git push -u origin main --force
